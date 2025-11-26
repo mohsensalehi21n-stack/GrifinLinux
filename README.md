@@ -1,5 +1,6 @@
 # GrifinLinux
 
+
 GrifinLinux is an open‑source operating system project built on top of **Tiny Core Linux**. Tiny Core provides a minimal, command‑line foundation — extremely lightweight yet flexible — and GrifinLinux takes this foundation further, aiming to evolve into a modern desktop system that can rival mainstream platforms like Windows and Ubuntu.
 
 ## ✨ Vision
@@ -22,3 +23,5 @@ GrifinLinux is at its earliest stage. This is the perfect time for developers, d
 - Suggesting optimizations and new features.
 
 Together, we can transform GrifinLinux from a Tiny Core command‑line base into a **lightweight, powerful, and community‑driven operating system**.
+=======
+>>>>>>> 9b2a9b4 (Initial commit with README, LICENSE, .gitignore)
